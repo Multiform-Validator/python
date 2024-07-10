@@ -6,7 +6,7 @@
 
 This package provides Python functions to validate various forms fields.
 
-Documentation: https://multiform-validator.vercel.app/documentation/py
+Documentation: https://multiformvalidator.netlify.app/documentation/py
 
 Feel free to find bugs and report them to me. Your feedback is highly appreciated. Hugs from Gabriel Logan!
 
